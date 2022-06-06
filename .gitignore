@@ -1,2 +1,6 @@
 .idea/
 venv/
+config/__pycache__/
+pages/__pycache__/
+tests/__pycache__/
+tests/assets/
